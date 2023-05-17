@@ -7,3 +7,7 @@
   org = "pasidaleed"
   version = "0.1.0"
 
+[[platform.java11.dependency]]
+groupId = "org.postgresql"
+artifactId = "postgresql"
+version = "42.2.20"
